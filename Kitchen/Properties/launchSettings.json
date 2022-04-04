@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Kitchen": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
