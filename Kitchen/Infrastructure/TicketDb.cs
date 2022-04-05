@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Kitchen
+namespace Infrastructure
 {
     public class TicketDb
     {
